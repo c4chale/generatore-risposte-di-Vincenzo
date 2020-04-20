@@ -5,7 +5,9 @@ var quotesList = [
     "Top!",
     "A pressione!",
     "Fa troppo ride",
-    "Tutto sotto controllo"
+    "Tutto sotto controllo",
+    "Bomba",
+    "Spettacolo",
 ];
 
 function randomQuote() {
