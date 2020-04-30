@@ -1,0 +1,16 @@
+body {
+    background-color: #241822;
+    color: white;
+}
+
+#quotebox {
+    display: none;
+    /* background-color: black; */
+    color: white;
+    
+}
+
+img {
+    width: 100%;
+}
+
